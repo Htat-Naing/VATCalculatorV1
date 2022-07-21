@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.filed{
+  width:300px;
+  padding-bottom: 20px;
+}
+.pale-green-border {
+  border:3px solid #25881a;
+  padding: 10px;
+}
+.header{
+  padding: 10px;
+}
+
